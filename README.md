@@ -1,31 +1,39 @@
-# AxonDrive-Sales-Analytics
-AxonDrive Sales Analytics is a cutting-edge solution designed to empower businesses with actionable insights into their sales performance. This advanced analytics tool leverages robust data analytics and visualization techniques to transform raw sales data into meaningful and strategic insights. AxonDrive Sales Analytics equips sales teams and decision-makers with the tools needed to optimize sales strategies, identify growth opportunities, and enhance overall business performance. With its user-friendly interface and powerful features, AxonDrive Sales Analytics is at the forefront of driving data-driven decision-making in the dynamic landscape of sales and business development.
 
-### **Synopsis: AxonDrive Sales Analytics Project**  
-The **AxonDrive Sales Analytics Project** leverages **Power BI and Excel** to provide deep insights into sales performance, revenue trends, and customer behavior. The goal of this project is to enable data-driven decision-making for optimizing business strategies.
+# Synopsis
 
-### **Key Insights from the Analysis**  
-1. **Sales Performance & Revenue Trends**  
-   - **Power BI** visualizations revealed monthly and quarterly revenue fluctuations, helping identify growth patterns.  
-   - **Excel-based trend analysis** showed seasonal variations in product sales, assisting in forecasting demand.  
+The Axon Car Sales is a powerful dashboard built with Microsoft Power BI, designed to give Axon Car a complete view of their global operations. It combines data from Excel/CSV files and MySQL databases to deliver actionable insights for the Finance, Sales, Marketing, and Supply Chain teams, helping them make smarter decisions.
 
-2. **Customer Behavior & Purchase Patterns**  
-   - **Excel pivot tables** categorized customers based on purchasing frequency and total spending.  
-   - **Power BI dashboards** tracked engagement and retention metrics, identifying high-value customers.  
 
-3. **Profitability & Inventory Optimization**  
-   - **Excel formulas** helped calculate profit margins across different product categories.  
-   - **Power BI reports** analyzed stock levels and reorder points to improve inventory management.  
+## Key Highlights
 
-### **Tools Used in the Project**  
-#### **🔹 Power BI**  
-- Created **interactive dashboards** with charts and slicers for real-time analysis.  
-- Used **DAX measures** for key calculations like revenue growth and sales forecasting.  
+Custom Dashboard: Designed a Power BI dashboard tailored to Axon Car Sales needs, providing detailed insights across all departments.
 
-#### **🔹 Excel**  
-- Cleaned and structured raw data using **formulas and functions**.  
-- Used **pivot tables and lookup functions** for quick insights.  
-- Conducted forecasting using **statistical formulas and regression models**.  
+Data Integration: Combined data from Excel/CSV files and a MySQL database into Power BI for a unified analysis.
 
-This project demonstrates how **Power BI and Excel** work together to transform raw sales data into actionable insights, empowering businesses with informed decision-making.   
+Data Modeling & Visuals: Built a strong data model and created interactive, easy-to-understand visuals for key metrics.
 
+Improved Performance: Used DAX Studio to boost dashboard speed, improving report efficiency by 5%.
+
+Smarter Decisions: Enabled Axon Car Sales to identify trends and make data-driven decisions across teams.
+
+## Screenshots
+
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%201%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%202%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%203%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%204%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%205%20360.jpg)
+![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%206%20360.jpg)
+
+## Data Sources
+
+The dashboard pulls data from two main sources:
+
+Excel/CSV Files: Used for Targets, Market Share data, and related information.
+
+MySQL Database: Provides Facts and Dimensions for all departments.
+
+## Contact Details
+
+[LinkedIN](https://www.linkedin.com/in/satyaki-sen-442315106/)
