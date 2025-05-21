@@ -18,14 +18,14 @@ Smarter Decisions: Enabled Axon Car Sales to identify trends and make data-drive
 
 ## Screenshots
 
-![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%20360.jpg)
-![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%201%20360.jpg)
-![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%202%20360.jpg)
-![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%203%20360.jpg)
-![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%204%20360.jpg)
-![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%205%20360.jpg)
-![image Alt](https://github.com/Satyakisen24/Business-Insights/blob/4a8bca007aac2a9c754bda3dede190013e692218/business%20insights%206%20360.jpg)
-
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20intro.png)
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20payent.png)
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20products%20%26%20quality.png)
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20order%20summary.png)
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20final%20report.png)
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20employee.png)
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20customers.png)
+![image Alt](https://github.com/Satyakisen24/AxonDrive-Sales-Analytics/blob/2de97606e9b85cdc2e10d34791969b8b93a8d43b/axon%20project%20areas.png).
 ## Data Sources
 
 The dashboard pulls data from two main sources:
